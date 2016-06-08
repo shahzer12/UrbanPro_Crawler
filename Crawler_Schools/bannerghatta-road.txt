@@ -1,0 +1,171 @@
+[
+{ name: "Podar Jumbo Kids",
+address: "12, 2nd main, 2nd cross,  Thimappa Reddy Extn,Hulimavu Gate,  Bangalore",
+board: "Playway",
+medium: "English Medium",
+description: "Jumbo Kids is a Preschool with a difference. The Jumbo Kids curriculum is designed to give children a healthy balance between learning and leisure time. Our unique system of education is known as  Kiducation', which..."
+},
+{ name: "BGS National Public School",
+address: "Ramalingeshwara Cave Temple Hulimavu,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "BGSNPS is founded by Pontiff His Holiness Jagadguru Sri Sri Sri Balagangadaranatha Swamiji of Adhichunchanagiri Math, who over the past has strived hard to promote educational institutions of international stature. Sri..."
+},
+{ name: "Sherwood High",
+address: "#01, Basavanpura, NICE Road Junction, Bannerghatta Road,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: "While other schools see education as a dissemination of information from teacher to student, at Sherwood we think differently. We, as educators believe in inspiring children to explore the world around. As a child, the..."
+},
+{ name: "The Samhita Academy",
+address: "Survey No.52, Hulukasavanahalli, Sakalawara (near Tulip Resort),,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "Located off Bannerghatta Road, The Samhita Academy (TSA) has a nice and quiet campus located on a 6 acre land.TSA believes in working with parents for the academic, physical, and emotional development of children."
+},
+{ name: "PSBB Learning Leadership Academy",
+address: "# 52, Sahasra Deepika Road, Laxmipura Village, Off Bannerghatta Main Road,,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "PSBBLLA has been set up by Learning Leadership Foundation in collaboration with Padma Seshadri Bala Bhavan Group of schools. 
+
+The institution has been set with the objective of growing global leaders, while preserving..."
+},
+{ name: "Little Elly - Vijaya Bank Layout",
+address: "510 A, 5th main Vijaya Bank Layout, Bannerghatta Road,,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Little Elly, the Concept Pre-school was born with the desire to nurture the child and lay a healthy foundation for a learned society. It is a humble initiative of Learning Edge India Pvt Ltd in association with Glen..."
+},
+{ name: "Radcliffe School",
+address: "15th Milestone  Bannerghatta Road ,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Radcliffe School promises to deliver quality education with an emphasis on a deep rooted value system. Here, our education is aimed at nurturing the children s intellect and supporting their emotional, moral and spiritual..."
+},
+{ name: "Heritage Academy",
+address: "Bannerghatta Circle   Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "Giving your child the best you can in every way is now just that much easier! We live in a time where learning and education are synonymous with decisions and choices. There are so many ways and means to teach and to..."
+},
+{ name: "Ryan International School, Bannerghatta road",
+address: "Opp. Confident Cascade  Bannergatta Main Road, ,  Bangalore",
+board: "ICSE, IGCSE",
+medium: "English Medium",
+description: "Ryan International School is an educational institution in India. It runs schools in many cities like Mumbai, Bangalore, New Delhi, Faridabad, Gurgaon etc. It is a subsidiary of St. Xaviers group, India The school is..."
+},
+{ name: "Eurokids - Bannerghatta Road",
+address: "#972 Vijaya Bank Colony Bannerghatta Road,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "EuroKids is a brand owned by EuroKids International Ltd which was formerly known as Egmont Imagination (India) Ltd. The core activity of the company revolved around children book publishing. The company had abundant..."
+},
+{ name: "Teddy Kidz",
+address: "#46 2nd Main, 2nd Cross Bannerghatta Road,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Teddy Kidz is now an ISO 9001:2000 certified school. An initiative taken by Teddy Kidz to give all our children and parents the highest quality education combined with excellent infrastructure, service and a safe environment..."
+},
+{ name: "Hello Kids - Rose",
+address: "163,7th Cross, 7th main, Next to Vinayaka temple Nobo Nagar, Bannerghatta road,,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Hello Kids is a place where children can grow and develop while reading, listening and playing. Here they move from dependence to independence from shaky coordination to refined skills, from body language to verbal communication,..."
+},
+{ name: "D.R.S. Kids",
+address: "#59 6th Cross, Venkatadri Layout, J.P. Nagar Bannerghatta Road,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "DRS KIDS offers an international curriculum which focuses on providing multicultural, social and environmental awarness to young minds. Programmes such as Headstart help children improve communication, skills and gain..."
+},
+{ name: "MG School for Excellence",
+address: "#171 Someshwara, T.P.L. Street, Bilakahalli Bannerghatta Road,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "Little Elly - Meenakshi Temple",
+address: "#145. T-Ramiah Garden After SOS Village, Off Bannerghatta Road ,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Little Elly, the Concept Pre-school was born with the desire to nurture the child and lay a healthy foundation for a learned society. It is a humble initiative of Learning Edge India Pvt Ltd in association with Glen..."
+},
+{ name: "Kidzee - Bannerghatta Road - II",
+address: "No. 80, Meenakshi Layout,Beside vitola apartment Kalena Agrahara, Bannerghatta Road,,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Kidzee is the largest chain of the pre-school in Asia. With 600 + pre-school Kidzee has reached out to 200000 parents & has been a defining body child development. Kidzee is present across 275 cities in India. It houses..."
+},
+{ name: "Guru Darshan Public School",
+address: "no-23, Bannerghatta main Road, Gottigere, Bangalore-560083.    Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "GURU DARSHAN PUBLIC SCHOOL (GDPS) is one of the institutions of GURU DARSHAN EDUCATION TRUST which was established in the year 2007 with a humble dream of providing quality education to the younger generation. The school..."
+},
+{ name: "Aradhana Convent",
+address: "Arakere Village, IIMB Post Bannerghatta Road,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Shantiniketan Educational Institutions",
+address: "#58 Mico Layout Bannerghatta Road,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Silicon Valley School",
+address: "#1, Vidya Sagar Layout,Bannerghatta Main Road Kembathalli Cross Road, Gottigere,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: "The school follows the Indian School Certificate Examinations (ICSE) pattern. The medium of instruction is English. The other Languages covered are Hindi as II Language and Kannada as III Language. Core subjects are..."
+},
+{ name: "Bright Kids International Pre-school",
+address: "Arekere Road Bannerghatta Road,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Bright Kids International Pre-School - Arekere, Bannerghatta Road. The school has operational laboratories, a computer center, a library and adequate classrooms. Glance on The Yearly school activities Like as:- Story..."
+},
+{ name: "Kidzee - Banneraghatta Road - I",
+address: "No. 34, 3rd Main, 6th cross Siddareddy Layout, Arakere Mico layout, Banneraghatta Road,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Kidzee is the largest chain of the pre-school in Asia. With 600 + pre-school Kidzee has reached out to 200000 parents & has been a defining body child development. Kidzee is present across 275 cities in India. It houses..."
+},
+{ name: "Layola High School",
+address: "Kothanur Bannerghatta Road,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: "Address:
+
+Bannerghatta Road
+Bangalore -560076
+Flag if incorrect
+Landmark: 
+Tell us if you know
+Phone: 080-26584690
+Flag if incorrect
+Mobile: 
+Tell us if you know
+Contact Person: Shobha
+Contact Loyola High School in Bannerghatta..."
+},
+{ name: "Sree Rama Sishuvihara Higher Primary School",
+address: "#29 5th Main Bannerghatta Road,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Sree Rama Sishuvihara Higher Primary School Co-ed., English and hindi medium boarding school. Stressing on inculcating high ideals , courteous behaviour, good manners , etiquettes and values of sharing , caring and universal..."
+},
+{ name: "Modern Montessori International Pre-school",
+address: "No-41,1st main road,'T' Ramaiah garden,next to children village,chikknahalli main road,Hulimav Bangalore,  Bangalore",
+board: "Montessorie",
+medium: "English Medium",
+description: "This is a international brand present in 14 countries Head quartered in London.  
+
+The MMI brand Pre-school is launched in Bangalore from this academic year.
+
+Currently it has 2 schools,
+1. Bannerghatta Road,Near Meenakshri..."
+}
+]
