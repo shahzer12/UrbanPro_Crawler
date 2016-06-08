@@ -1,0 +1,163 @@
+[
+{ name: "Shree Swaminarayan Gurukul International School",
+address: "Shree Swaminarayan Gurukul International School Mysore Road,   Bangalore",
+board: "CBSE,ICSE,IGCSE,State",
+medium: "English Medium",
+description: "Shree Swaminarayan Gurukul International School Bangalore is an establishment of world class education catering a well designed curriculum like CBSE, ICSE & PUC. A paradise of learning for your child encompassing technology..."
+},
+{ name: "Trio World Academy",
+address: "#3/5, Kodigehalli Main Road Sahakar Nagar,  Bangalore",
+board: "ICSE,IB,IGCSE",
+medium: "English Medium",
+description: "Trio World Academy is a reputed International Day & Boarding School in Bangalore.
+
+It aims to provide a broad and stimulating truly international educational experience with very high standards of Cambridge curriculum,..."
+},
+{ name: "Oakridge International School",
+address: "Varthur Road, Near Dommasandra Circle,Sarjapur Hobli Near Sarjapur Road,  Bangalore",
+board: "CBSE,IB",
+medium: "English Medium",
+description: "Oakridge is a group of people passionate about making learning experiential and life long. 
+We are not just a great school, we are a place where great futures are inspired.Our distinguished faculty, progressive teaching..."
+},
+{ name: "ICE International School, Bangalore",
+address: "154/1, Vijay Kiran Knowledge Park Kaggadaspura,  Bangalore",
+board: "IGCSE",
+medium: "English Medium",
+description: "As a K- 12 Cambridge International School, International Centre for Excellence offers the essence of international education and ensures to provide each learner a place conducive to learning, sharing, exploring and discovering...."
+},
+{ name: "Edify School Electronic City",
+address: "105, 34th Main, 23rd Cross,  Sector-A, Surya Nagar Phase-2, Anekal-Chandapura Main Road, Electronic City,,  Bangalore",
+board: "CBSE, IGCSE",
+medium: "English Medium",
+description: "Edify School Electronic City is part of MDN Edify Education which has for last decade provided quality education which conforms to National and International curricula. 
+
+In today s changing world, education has to be..."
+},
+{ name: "School Of India",
+address: "Anekal Road, Bannerghatta,   Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "A unique school which is set up on the principle of  Nationalism before Internationalism ."
+},
+{ name: "Orchids The International School",
+address: "Jalahalli, Nagarbavi, Mysore Road, Sarjapur Road, BTM,  Bangalore",
+board: "CBSE & IGCSE",
+medium: "English Medium",
+description: "At Orchids International School, we believe in creating individuals, innovators and leaders. Supported by a pedigree that spans two decades, we have shaped the future of 65,000 students, imparting an education that is..."
+},
+{ name: "Global Academy For Learning",
+address: "Sri Chowdeshwari Farm, Near Global Village IT Park, Pattanagere Main Road, Rajarajeshwarinagar,  Bangalore",
+board: "CBSE and State Syllabus",
+medium: "English Medium",
+description: "GLOBAL ACADEMY FOR LEARNING - SCHOOL stands committed to provide value based quality education of world standards to its students. We are aware that our country is the land of a very diverse and rich cultural heritage...."
+},
+{ name: "iKidz Pre School",
+address: "#333 19th, B Cross, MV Nagar  Near Chaitanya Tecno School, Ramamurthy Nagar, TC Palaya   Bangalore",
+board: "",
+medium: "English Medium",
+description: "Every child is unique and we believe that success and growth come from encouragement and praise. Our teachers focus on building every child s self esteem and confidence through positive feedback and rewards. We nurture..."
+},
+{ name: "Legacy School Bangalore",
+address: "6/1A, 6/2 Byrathi Village Bidarahalli Hobli, Hennur Main Road,  Bangalore",
+board: "Montessori, International GCSE (UK)",
+medium: "English Medium",
+description: "Legacy School was formerly known as Vidyaniketan Academy (VNA); the school underwent a change in name and moved to a beautiful new campus in 2010. It is a private school and is rapidly gaining popularity for its student-friendly..."
+},
+{ name: "SorsFort International School",
+address: "#90, Electronic city, Phase -1, Hosur Road, Bnagalore-560100, Karnataka,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: "Sorsfort International School takes a Big step in welcoming the most amazing gift of God-Your Children.
+
+Sorsfort help in providing the stepping stones for your children s successful & secure future.SorsFort is an enriching..."
+},
+{ name: "Mother Teresa High School",
+address: "M.E.S. Road Jalahalli,  Bangalore",
+board: "State, CBSE",
+medium: "English Medium",
+description: "A school that provides CBSE and state board."
+},
+{ name: "Podar Jumbo Kids",
+address: "12, 2nd main, 2nd cross,  Thimappa Reddy Extn,Hulimavu Gate,  Bangalore",
+board: "Playway",
+medium: "English Medium",
+description: "Jumbo Kids is a Preschool with a difference. The Jumbo Kids curriculum is designed to give children a healthy balance between learning and leisure time. Our unique system of education is known as  Kiducation', which..."
+},
+{ name: "Ekya School",
+address: "No.16, 6TH B Main J P Nagar 3RD Phase,  Bangalore",
+board: "ICSE, IGCSE",
+medium: "English Medium",
+description: "CMR Group of Institutions and National Public Schools is opening Ekya School in JP Nagar. 
+
+The word Ekya is derived from the Sanskrit sounds of unity and individuality. It embodies the spirit of collaboration and togetherness..."
+},
+{ name: "Presidency School (Bangalore - East)",
+address: "CA Site 7P1A, 2nd A Main, 3rd A cross, East of NGEF Layout, Kasturinagar,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "Presidency Schools are progressive, futuristic institutions and are established as a network of schools, with an objective of delivering high quality education.
+
+Our distinctive character is to provide world-class education,..."
+},
+{ name: "New Horizon Public School",
+address: "100 feet Road Indiranagar,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: "New Horizon Public school is one of the premium schools in Bangalore and has been in existence since 1970. It is a unit of the prestigious New Horizon Educational Institution of Bangalore, which is committed to the cause..."
+},
+{ name: "Gnan Srishti School Of Excellence",
+address: "19th Main, 17th Cross Sector 1, HSR Layout ,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: "Gnan Srishti School of Excellence was started by a group of engineers and educationists who want to contribute back to the society they are part of, and what better way to do that than moulding children in responsible..."
+},
+{ name: "BGS National Public School",
+address: "Ramalingeshwara Cave Temple Hulimavu,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "BGSNPS is founded by Pontiff His Holiness Jagadguru Sri Sri Sri Balagangadaranatha Swamiji of Adhichunchanagiri Math, who over the past has strived hard to promote educational institutions of international stature. Sri..."
+},
+{ name: "National Public School, Indiranagar",
+address: "12 A Main HAL II Stage,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "National Public School, Indiranagar was established in 1982 under the chairmanship of Dr. K P Gopalkrishna. This Institution is affiliated to the Central Board of Secondary Education (CBSE), the national body of the..."
+},
+{ name: "Gear Innovative International School",
+address: "GEAR Road, Doddakannelli, Off Sarjapur Road & Outer Ring Road,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "Mr. Srinivasan is the Founder and   Chairman of GEAR [Gifted Education And   Research] Foundation, Bangalore. This school applies the principles of gifted education to develop every child into a gifted child. The concept..."
+},
+{ name: "Indo-German School",
+address: "No. 8/P, 1st A cross, 3rd Main Road Kasturinagar,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: "The Indo-German School is an integrated nursery and primary school located in Kasturinagar, Bangalore. We bring together children from a variety of backgrounds in a open learning atmosphere which gives them the opportunity..."
+},
+{ name: "Treamis World School",
+address: "Hulimangala Post   Bangalore",
+board: "CBSE, IGCSE",
+medium: "English Medium",
+description: "A group of professional from USA and India created TREAMIS World School to ensure smooth transition of education for students who have to move between countries and to ensure a global learning experience. Academics,..."
+},
+{ name: "New Horizon Gurukul",
+address: "Ring Road, Near Marathalli,  Behind New Horizon College of Engineering, Bangalore ,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "New Horizon Gurukul (estd: 2010) is an innovative fusion of the cultural heritage of the ancient Gurukul system with modern methods of teaching and learning. This unique Gurukul concept emphasizes experiential learning..."
+},
+{ name: "India International school",
+address: "26/1,Chikkabellandur, Carmel Ram Post,  Bangalore",
+board: "ICSE,IGCSE",
+medium: "English Medium",
+description: "Started in 2002 .This school is 9 year old.Offers ICSE and IGCSE board.Produced excellent results in both the streams.Admission open till Jan 15th.2011"
+},
+{ name: "Ebenezer International School",
+address: "Singena Agrahara Road, Via Hosur Road / A.P.M.C. Yard,,  Bangalore",
+board: "ICSE and IGCSE",
+medium: "English Medium",
+description: "Founded by Dr Abraham Ebenezer, who was the former principal of Bishop Cotton Boy s School, Ebenezer International School endeavors to be a path-breaking educational institution that keeps pace with the rapid strides..."
+}
+]

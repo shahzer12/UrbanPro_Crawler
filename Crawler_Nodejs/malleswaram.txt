@@ -1,0 +1,152 @@
+[
+{ name: "Kendriya Vidyalaya - Malleswaram",
+address: "18th Cross Malleswaram   Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "Kendriya Vidyalaya Sangathan is an autonomous body under the Ministry of HRD, Government of India for the benefit of the children of transferable employees of the Government of India. At present there are 981 schools..."
+},
+{ name: "Cluny Convent High School, Malleswaram",
+address: "13th Cross   Bangalore",
+board: "",
+medium: "English Medium",
+description: "Cluny Convent High School, Malleswaram, came into existence in the year 1948. The aim of the institution is to impart an all round education based on Christian principles and values to the pupils who come to study here...."
+},
+{ name: "Kidzee - Malleshwaram",
+address: "#2, 12th Cross, 6th Main Malleswaram,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Kidzee is the largest chain of the pre-school in Asia. With 600 + pre-school Kidzee has reached out to 200000 parents & has been a defining body child development. Kidzee is present across 275 cities in India. It houses..."
+},
+{ name: "Kidzee Malleswaram",
+address: "#2 12th Cross, 6th Main Malleswaram,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Kidzee Malleswaram is in the field of Pre-school education since 2007. We have been successful in providing a quality education to more than 500 kids. Please talk to us to find out how we can help your children in their..."
+},
+{ name: "B.P. Indian Public School",
+address: "#64/47 11th Cross, 5th Main   Bangalore",
+board: "ICSE",
+description: ""
+},
+{ name: "Euro Kids - Malleswaram",
+address: "House No 38, 7th Cross, 5th Main, Malleswaram,,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "EuroKids is a brand owned by EuroKids International Ltd which was formerly known as Egmont Imagination (India) Ltd. The core activity of the company revolved around children book publishing. The company had abundant..."
+},
+{ name: "Malleshwaram Ladies Association",
+address: "Malleshwaram 15th cross 15th Cross,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: "This school operates from Nursery upto Degree.
+Good Education, Good Teachers, Good campus, Overall a good place to Learn."
+},
+{ name: "MES Kishore Kendra, Malleswaram",
+address: "#62, 15th Cross, 10th Main,Malleswaram,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: "MES Kishore Kendra High School is one of the famous and old schools in Malleswaram. This is near MES College. One of the famous colleges and schools in Bangalore is MES."
+},
+{ name: "A.U. High School",
+address: "#17/8 8th Main Road, Palace Guttahalli Malleswaram,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: "A.U. High School Malleswaram-school maintain high quality education provide up to middle education providing Computer Education to people from all walks of life. As education in the proper sense is not mere learning,..."
+},
+{ name: "Vidya Mandir Pre-University College",
+address: "11th Cross Malleswaram,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Suraksha Play Home",
+address: "#20 4th Cross Malleswaram,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Suraksha Play Home -Malleswaram is provide students with superior educational opportunities in a caring, well-structured and supportive environment. Our aim is to send graduates into the wider world prepared to pursue..."
+},
+{ name: "Nirmala Rani",
+address: "18th Cross Malleshwaram West CVS RD,  Bangalore",
+board: "",
+medium: "English Medium",
+description: ""
+},
+{ name: "Hymamshu Jyothi Kala Peetha",
+address: "74, 15 cross  Hymamshu Sastry Road  (IV Main Road)Malleshwaram,  Bangalore",
+board: "State",
+medium: "English Medium",
+description: "In the early thirties Malleswaram was a beautiful locality with tremendous serenity and fine elevation. It was during this time Sri M L Srinivasa Sastry and Smt. M.L Sundaramma settled down for a purposeful life. On..."
+},
+{ name: "Hymamshu Jyothi Kala Peetha",
+address: "15th Cross, 4th Main, Malleshwaram   Bangalore",
+board: "State",
+medium: "English Medium",
+description: ""
+},
+{ name: "M.E.S. Kishore Kendra",
+address: "#62 10th Main, 15th Cross Malleswaram,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "M.L.A. High School",
+address: "15th Cross Malleswaram,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "M.S.V. High School",
+address: "#39 4th Cross Malleswaram,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Sharada Vidya Niketana",
+address: "#13th Cross, 8th Main Malleswaram,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Sri Vidya Mandira Education Society",
+address: "West of Chord Road, 11th Cross Malleswaram,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Swami Sivananda Educational Society",
+address: "Sampige Road Malleswaram,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "The Bangalore Education Society",
+address: "8th Cross, 4th Main Malleswaram,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Thirumala Vidya Niketan English Medium School",
+address: "G.D. Park Extension, Vyalikaval, 15th Cross Malleswaram,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Nisarga Play Home",
+address: "#23, Sabaramati9th Cross Malleswaram,  Bangalore",
+board: "",
+medium: "English Medium",
+description: ""
+},
+{ name: "Vyalikaval Educational Society School",
+address: "18th cross Gayathri Devi Park Extension, Vyalikaval Malleswaram,  Bangalore",
+board: "State & ICSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "New Public High School",
+address: "Malleswaram   Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+}
+]

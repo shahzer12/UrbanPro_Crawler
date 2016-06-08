@@ -1,0 +1,151 @@
+[
+{ name: "Little Flower Public School",
+address: "#1, 100ft Ring Rd Hosakarehalli   Bangalore",
+board: "ICSE, SSLC & ISC",
+medium: "Hindi Medium",
+description: "Little Flower Public School was established in the year 1988 as a private unaided English Medium Co-education School and is affiliated to the Council for the Indian School Certificate Examinations, New Delhi.
+
+At Little..."
+},
+{ name: "Euro Kids - Banashankari 3rd Stage",
+address: "6th Cross Banashankari 3rd Stage,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "EuroKids is a brand owned by EuroKids International Ltd which was formerly known as Egmont Imagination (India) Ltd. The core activity of the company revolved around children book publishing. The company had abundant..."
+},
+{ name: "Kidzee",
+address: "#1301 Phase 2, 14th Cross, Girinagar, B.S.K. 3rd Stage Banashankari 3rd Stage,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Within almost a decade of its existence, Kidzee has nurtured more than 1,00,000 children throughout India. Being a pioneer and a leader in ECCE (Early Childhood Care & Education), Kidzee has set unparalleled standards..."
+},
+{ name: "Little Elly - Banashankari 3rd stage",
+address: "No,721, 1st Main, IInd Phase Banashankari 3rd Stage, Bangalore - 560085,  Bangalore",
+board: "IB",
+medium: "English Medium",
+description: "Little Elly, the Concept Pre-school was born with the desire to nurture the child and lay a healthy foundation for a learned society. It is a humble initiative of Learning Edge India Pvt Ltd in association with Glen..."
+},
+{ name: "Kidzee Chirantana",
+address: "#1301 Phase 2, 14th Cross, 2nd Phase, Girinagar, 3rd Stage Banashankari 3rd Stage,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Within almost a decade of its existence, Kidzee has nurtured more than 1,00,000 children throughout India. Being a pioneer and a leader in ECCE (Early Childhood Care & Education), Kidzee has set unparalleled standards..."
+},
+{ name: "Apollo Convent",
+address: "#320 Phase 3, 5th Cross, 5th Main, 5th Block   Bangalore",
+board: "ICSE",
+description: ""
+},
+{ name: "Auden Institute of Education",
+address: "#17 Phase 2, Giri Nagar   Bangalore",
+board: "ICSE",
+description: ""
+},
+{ name: "Hajjimane Play Home",
+address: "60 Feet Road Banashankari 3rd Stage,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "A Playschool where your children can learn and explore in fun."
+},
+{ name: "Smartkidz Play School",
+address: "#734 6th Cross, K.G. Layout, 3rd Stage Banashankari 3rd Stage,  Bangalore",
+board: "",
+description: "Timings: 10:00 am - 1:00 pm; Business Days: Monday - Saturday"
+},
+{ name: "Sri Krishna International School & College",
+address: "#2 3rd Stage, Vidyapeetha Circle, I.T.I. Layout Banashankari 3rd Stage,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "B.T.L. Vidya Vahini Primary School",
+address: "#52 3rd A Cross, 7th Main Banashankari 3rd Stage,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Cauvery Vidyaniketan",
+address: "#69G Phase 3, 1st D Cross, Kathriguppe Main, Vivekananda Nagar Banashankari 3rd Stage,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Gnana Gangothri Vidyalaya",
+address: "#18 Phase 3, Ittamadu, 7th Main, Sriram Nagar, Kathriguppe Banashankari 3rd Stage,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Max Muller Public School",
+address: "New #62 Nehru Road Banashankari 3rd Stage,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "New Carmel School",
+address: "Hosakerehalli, 3rd Stage Banashankari 3rd Stage,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Shubhamangala Education Society",
+address: "#3 Ittamadu Banashankari 3rd Stage,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "St. Thomas English Medium High School",
+address: "#16 10th Main Banashankari 3rd Stage,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Akshaya Play Home",
+address: "#102/1, 1 Cross, 5th Block, Phase 3 Banashankari 3rd Stage,  Bangalore",
+board: "",
+medium: "English Medium",
+description: ""
+},
+{ name: "Kiddos - The Kids Play School",
+address: "#194, Sri Sai Krupa Building Phase 3, 14th Cross, Giri Nagar Banashankari 3rd Stage,  Bangalore",
+board: "",
+medium: "English Medium",
+description: ""
+},
+{ name: "Kiddos - The Kids Play School",
+address: "#617 Phase 2, 2nd Cross, 7th Block Banashankari 3rd Stage,  Bangalore",
+board: "",
+medium: "English Medium",
+description: ""
+},
+{ name: "Master Brain Abacus",
+address: "#734 Phase 3, 6th Cross, 3rd Block, K.G. Layout Banashankari 3rd Stage,  Bangalore",
+board: "",
+medium: "English Medium",
+description: ""
+},
+{ name: "Shanthi Nikethana Creative Pre School",
+address: "#295J Vivekananda Circle Banashankari 3rd Stage,  Bangalore",
+board: "",
+medium: "English Medium",
+description: ""
+},
+{ name: "Srivari Play Home",
+address: "#706 3rd Phase, 3rd Block, 5th Cross, 3rd Stage Banashankari 3rd Stage,  Bangalore",
+board: "",
+medium: "English Medium",
+description: ""
+},
+{ name: "Tom And Jerry Nursery",
+address: "#543 1st A Cross, 31st Main, Banagiri Nagar, 2nd Stage Banashankari 3rd Stage,  Bangalore",
+board: "",
+medium: "English Medium",
+description: ""
+},
+{ name: "Max Muller English School",
+address: "#62 Nehru Road, Giri Nagar, Banashankari 3rd Stage,  Bangalore",
+board: "",
+medium: "English Medium",
+description: ""
+}
+]

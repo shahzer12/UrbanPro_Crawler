@@ -1,0 +1,154 @@
+[
+{ name: "Bright Kids International",
+address: "#62 Amar Jyothi Layout, 3rd Main, Anand Nagar R.T. Nagar,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Bright Kid is Bangalore's one of the most renowned and well planned Montessori Houses having 4 Montessori pre-school centres at R.T.Nagar, Anand Nagar, HRBR Layout / Kammanahalli & Ram murthy Nagar. Our house of children..."
+},
+{ name: "Kidzee - R.T. Nagar",
+address: "72, HMT Layout, Dinnur Main Road R.T. Nagar,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Kidzee is the largest chain of the pre-school in Asia. With 600 + pre-school Kidzee has reached out to 200000 parents & has been a defining body child development. Kidzee is present across 275 cities in India. It houses..."
+},
+{ name: "Euro Kids - R.T. Nagar",
+address: "#11 1st Main, 1st Cross, M.L.A. Layout R.T. Nagar,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "EuroKids is a brand owned by EuroKids International Ltd which was formerly known as Egmont Imagination (India) Ltd. The core activity of the company revolved around children book publishing. The company had abundant..."
+},
+{ name: "Euro Kids - R.T. Nagar",
+address: "#140 14th Cross, 1st Block R.T. Nagar,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "EuroKids is a brand owned by EuroKids International Ltd which was formerly known as Egmont Imagination (India) Ltd. The core activity of the company revolved around children book publishing. The company had abundant..."
+},
+{ name: "Poorna Smrithi Public School",
+address: "#44 Shampur Main Road, l.R. Bande Road R.T. Nagar,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "Poorna Smrithi Public School was founded in the year 2000. The institution was founded by G.V.Kumaraswamy and Sharada Kumar with an aim to provide quality education at an affordable cost.
+
+Since inception the school..."
+},
+{ name: "Bright Heritage School",
+address: "#167 8th Cross, 7th Main, H.M.T. Layout R.T. Nagar,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "Bright Kid Montessori House is highly inspired, one of the most renowned and well planned Chain of Montessori pre-school across North Bangalore. The first centre was established in 2007, in Hebbal (near RT Nagar, Bangalore)..."
+},
+{ name: "Shemrock - Starkid",
+address: "No. 284, 14th Cross 2nd Block, R T Nagar, ,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Shemrock is promoted by the Arora family -- which consists of two generations of the country s leading educationists with over 75 years of combined experience in the field of education. For two decades they have primarily..."
+},
+{ name: "Kidzee - HMT Layout - II",
+address: "HMT Layout Behind RT Nagar Police Station,,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Kidzee is the largest chain of the pre-school in Asia. With 600 + pre-school Kidzee has reached out to 200000 parents & has been a defining body child development. Kidzee is present across 275 cities in India. It houses..."
+},
+{ name: "Vidyanjali Academy for Learning",
+address: "#80 5th Main, Anand Nagar R.T. Nagar,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "Inspired by the infinite potential for human growth and power of education to make the realization of this potential possible in individual lives, Sri Ramaiah Reddy Educational Trust of Bangalore founded Vidyanjali in..."
+},
+{ name: "Siddhartha High School",
+address: "#1 Chowdaiah Block R.T. Nagar,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Bambino Tutelage",
+address: "#111 4th Cross, P.N.T. Colony, 2nd Block R.T. Nagar,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Montessori School - 2 years to 6 years old"
+},
+{ name: "R.T. Nagar School of Nursing",
+address: "HMT Layout R.T. Nagar,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "Cloony Convent High School",
+address: "Subrato Mukherjee Road H.M.T.,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "Mac Coy's Doon Public School",
+address: "Sultanpalya R.T. Nagar,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "R.T. Nagar Public School",
+address: "K.H.M. Block, Ganga Nagar R.T. Nagar,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "Fatima Higher Primary School",
+address: "#193 Subrato Mukherjee Road H.M.T.,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Mamatha High School",
+address: "Hmt Layout, Ganga Nagar R.T. Nagar,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Residency School",
+address: "HMT Layout R.T. Nagar,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Udaya Vidya Kendra",
+address: "#3 Sultanpalya R.T. Nagar,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "RT Nagar High School",
+address: "KHM Block Ganganagar R.T. Nagar,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Sreevani English School",
+address: "#1C 1st C Main Road, Ganga Nagar R.T. Nagar,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Vidyanjali Academy for Learning",
+address: "#80 5th Main, Anand Nagar R.T. Nagar,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Chidartha Public School",
+address: "#1 1st Cross, Chowdaiah Block R.T. Nagar,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "St. Win Public School",
+address: "#35 1st Cross, Kaval Byrasandra, Ambedkar Layout R.T. Nagar,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "Presidency School",
+address: "#CA4, 3284 H.M.T. Layout R.T. Nagar,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: ""
+}
+]

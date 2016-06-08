@@ -1,0 +1,152 @@
+[
+{ name: "St. Francis Xavier Girls High School",
+address: "49, Promenade Road Cleveland Town, Frazer Town,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: "Run by the Sisters of St. Joseph of Tarbes, this ICSE school gives you the feel of a hill-station institution. With classes from nursery to std 10 and an army of proficient teaching staff, it comes as no surprise that..."
+},
+{ name: "St. Germain High School",
+address: "504, Promenande Road Cleveland Town, Frazer Town, ,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "St. John's High School",
+address: "#132 Post Box No. 505,  St. John's Church Road, Clevland Town Frazer Town,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "Chrysalis Hub",
+address: "21/5, 2nd Cross, Spencer Road   Bangalore",
+board: "Mixed method - Montessori and Reggio Emilia",
+medium: "English Medium",
+description: "Chrysalis Hub, situated in Frazer Town, Bangalore - offers Play Group, Nursery, Day Care, Emergency Day Care, After school workshops, weekend workshops and hosts Birthday parties. 
+
+We have a three hour preschool session..."
+},
+{ name: "Euro Kids - Frazer Town",
+address: "Cox Town Frazer Town,,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "EuroKids is a brand owned by EuroKids International Ltd which was formerly known as Egmont Imagination (India) Ltd. The core activity of the company revolved around children book publishing. The company had abundant..."
+},
+{ name: "Lovann Play Home",
+address: "#1/5/1, Lazar Road Frazer Town,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "We are in this service for about 8 years."
+},
+{ name: "Seventh Day Adventist",
+address: "#98 Spencer Road Frazer Town,  Bangalore",
+board: "State",
+medium: "English Medium",
+description: ""
+},
+{ name: "Good Will Girls' High School",
+address: "Promenade Road Frazer Town,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Oasis International School",
+address: "#16, Saunder’s Road, Frazer Town   Bangalore",
+board: "ICSE",
+description: ""
+},
+{ name: "Balakunj Play Home & Baby Sitting",
+address: "8, 2nd Cross, Wheeler Road, Sindhi Colony Frazer Town,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "Mahahil Public School",
+address: "92, R.S. Road Frazer Town,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "Planet Education",
+address: "#75 Wheelers Road, Cox Town Frazer Town,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Conrad English Primary School",
+address: "#184 St. John's Church Road Frazer Town,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Fathima Girls' High School",
+address: "Coles Road Frazer Town,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "R.T.C. Girls Higher Primary School",
+address: "St. Joseph's Convent, Promenade Road Frazer Town,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Florence High School & Composite Junior College",
+address: "Florence High School & Composite Junior College Frazer Town,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Vimal Shishya House Of Children",
+address: "#76 Wheelers Road, Cox Town Frazer Town,  Bangalore",
+board: "",
+medium: "English Medium",
+description: ""
+},
+{ name: "Abraham Child Care",
+address: "#13/2, R.S. Road Frazer Town,  Bangalore",
+board: "",
+medium: "English Medium",
+description: ""
+},
+{ name: "Bethay Education Society",
+address: "Kacharakanalli Frazer Town,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Clearence High School",
+address: "#8 Pastry Road, Richards Town Frazer Town,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "Little Robbin School",
+address: "#698, K.M. Annamalai Building B.S.A.Road, A.K. Colony Frazer Town,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Lourdes Convent",
+address: "Cathedral Compound, Cleveland Town Frazer Town,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Melers High School Education Society",
+address: "#5 Murugesh Mudaliar Road Frazer Town,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "St. Aloysius Junior College",
+address: "Cox Town Frazer Town,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "St. Joseph's High School",
+address: "No.49, Promenade Road Frazer Town,  Bangalore",
+board: "ICSC,ISC",
+medium: "English Medium",
+description: ""
+]

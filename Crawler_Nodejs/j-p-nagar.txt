@@ -1,0 +1,158 @@
+[
+{ name: "Ekya School",
+address: "No.16, 6TH B Main J P Nagar 3RD Phase,  Bangalore",
+board: "ICSE, IGCSE",
+medium: "English Medium",
+description: "CMR Group of Institutions and National Public Schools is opening Ekya School in JP Nagar. 
+
+The word Ekya is derived from the Sanskrit sounds of unity and individuality. It embodies the spirit of collaboration and togetherness..."
+},
+{ name: "The Brigade International School , Brigade Millenium JP Nagar",
+address: "Brigade Millenium, JP Nagar   Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: "A wise person once described a school as a building that has four walls with tomorrow inside. The focus of education at The Brigade School @ J. P. Nagar embodies this idea by giving its students the strong roots they..."
+},
+{ name: "St. Paul's School, J.P. Nagar",
+address: "121, 3rd Cross J.P. Nagar 3rd Phase,  Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: "Set up in the year 1983, this school operates as per all the three boards - SSLC, ISCE and CBSE. The school conducts classes from nursery up to 12th standard. They also have a pre-university college on campus close to..."
+},
+{ name: "Clarence Public School",
+address: "J.P.Nagar, 4th Phase   Bangalore",
+board: "I.C.S.E and S.S.L.C",
+medium: "English Medium",
+description: ""
+},
+{ name: "Oxford English School",
+address: "#40, 1st Phase J.P. Nagar,  Bangalore",
+board: "CBSE,ICSE",
+medium: "English Medium",
+description: "Oxford Educational Institutions is the Brain Child of CHILDREN'S EDUCATION SOCIETY. The Oxford Educational Institutions are well-known for its Academic excellences. The Institutions provides education from primary level..."
+},
+{ name: "Sri Sri Ravi Shankar Vidya Mandir School",
+address: "#710 7th Main, 14th Cross J.P.Nagar 3rd Phase Bangalre J.P. Nagar,  Bangalore",
+board: "CBSE, ICSE",
+medium: "English Medium",
+description: "Sri Sri Ravishankar Vidya Mandir, as the name itself suggests, is designed to be a temple of learning where knowledge is revered;
+SSRVM schools provide world-class holistic education that is aimed at all- round development..."
+},
+{ name: "Cleverland school",
+address: "Kothnur Dinne Main Road  JP Nagar 8th Phase ,  Bangalore",
+board: "Sate Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "I Play I Learn",
+address: "#1293, 2 Phase,7th Cross, 20th Main J.P. Nagar,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "New Age Knowledge solution ltd.  a new generation organization, Presents 'I Play I Learn' - a path breaking Pre-school concept for the new generation learners..
+
+We introduce ourselves as an educationally focused organization..."
+},
+{ name: "Little Elly - JP Nagar 5th Phase",
+address: "140/2, 18th Main, 19th A Cross, Near Cosmo Bakery JP Nagar 5th Phase,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Little Elly, the Concept Pre-school was born with the desire to nurture the child and lay a healthy foundation for a learned society. It is a humble initiative of Learning Edge India Pvt Ltd in association with Glen..."
+},
+{ name: "Kidzee -  Dollars Layout",
+address: "#394, 2nd Cross, 9th Main Dollars Layout J.P. Nagar 4th Phase,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Kidzee is the largest chain of the pre-school in Asia. With 600 + pre-school Kidzee has reached out to 200000 parents & has been a defining body child development. Kidzee is present across 275 cities in India. It houses..."
+},
+{ name: "Kidzee - J.P. Nagar 7th Phase",
+address: "#33/38, Nataraja Layout, 1st & 2nd Main Road J.P. Nagar 7th Phase,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Kidzee is the largest chain of the pre-school in Asia. With 600 + pre-school Kidzee has reached out to 200000 parents & has been a defining body child development. Kidzee is present across 275 cities in India. It houses..."
+},
+{ name: "The Pupil Tree Pre School",
+address: "#124 Phase 7, 5th Main, 9th Cross, R.B.I. Layout J.P. Nagar,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "The Pupil Tree mentors are guides for the children and share the passion and joy of learning. They are trained individuals who understand and nurture the individuality and passion in each child. With empathy, patience..."
+},
+{ name: "Apple Kids",
+address: "#599, Aishwarya Arcade 3rd Floor, Phase 2, 12th-A-Cross, 8th Main J.P. Nagar,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "APPLE KIDS is India's fast-growing ISO 9001:2000 Certified chain of Hi-tech International Standard Pre-Schools. In addition to our regular pre-school activity, we conduct many part-time Courses and weekend Courses."
+},
+{ name: "The Oxford Educational Institutions - Corporate Office",
+address: "#40 1 Phase, 9th Cross, 30th Main, 1st Stage J.P. Nagar,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Founded in 1974 by S. Narasa Raju, the Oxford Educational Institutions is the Brain Child of CHILDREN'S EDUCATION SOCIETY (REGD). The Oxford Educational Institutions, well-known for Academic excellences cover the gamut..."
+},
+{ name: "Innisfree House School",
+address: "9th cross,  J.P.Nagar  2nd phase   Bangalore",
+board: "ICSE",
+medium: "English Medium",
+description: "Started in 1985 to provide quality education to the children of Bangalore south through the best of the  Eastern and the Western systems. Special emphasis on the all-round development of the individual child. Concern..."
+},
+{ name: "Podar Jumbo Kids",
+address: "#121/8 Phase 7, Puttenhalli Main Road, Gowravnagar J P Nagar,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Jumbo Kids is part of the Podar Education Group , which is a dynamic, constantly evolving nucleus, imparting education at various levels, and was established in 1927, that is more than  80 yrs in the education field...."
+},
+{ name: "Nalanda English School",
+address: "Phase 2, 16th Main J.P. Nagar,  Bangalore",
+board: "State",
+medium: "English Medium",
+description: "State Board, Nursery - 10th, Co-edu, English Medium"
+},
+{ name: "Poddar Jumbo Kids",
+address: "#698 15th Cross, 24th Main, 2nd Phase J.P. Nagar,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "The Podar Education Group , which is a dynamic, constantly evolving nucleus, imparting education at various levels, and was established in 1927, that is more than 80 yrs in the education field. 
+The first president of..."
+},
+{ name: "The Pupil Tree Prep. School",
+address: "#690D & 690C Phase 2, Sarakki J.P. Nagar,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "The Pupil Tree preschools, Bangalore, offer a unique combination of child care and kindergarten education with the  The Pupil Tree Creative Curriculum . At The Pupil Tree Prep schools, education is about developing children..."
+},
+{ name: "Kidzee - JP. Nagar, 1st Phase",
+address: "Independence House bearing no.41 31st Main, ITI Layout, JP. Nagar, 1st Phase,,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Kidzee is the largest chain of the pre-school in Asia. With 600 + pre-school Kidzee has reached out to 200000 parents & has been a defining body child development. Kidzee is present across 275 cities in India. It houses..."
+},
+{ name: "Shemrock - Firststep",
+address: "730, J.P. Nagar 7th Phase, RBI Layout,,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Shemrock is promoted by the Arora family -- which consists of two generations of the country s leading educationists with over 75 years of combined experience in the field of education. For two decades they have primarily..."
+},
+{ name: "Kidzee - J.P. Nagar",
+address: "No. 41, Ground Floor, C of A block of IMG Elite Ragvanpalya, J.P. Nagar, 9th Phase, 7th Block,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Kidzee is the largest chain of the pre-school in Asia. With 600 + pre-school Kidzee has reached out to 200000 parents & has been a defining body child development. Kidzee is present across 275 cities in India. It houses..."
+},
+{ name: "Sudarshan Vidya Mandir High School",
+address: "#45/A/136 1st Cross, 3rd Main Road J.P. Nagar,  Bangalore",
+board: "State Board",
+medium: "English Medium",
+description: ""
+},
+{ name: "Frank Public School",
+address: "17th Cross, 33rd Main,  6th Phase  J.P.Nagar,  Bangalore",
+board: "CBSE",
+medium: "English Medium",
+description: ""
+},
+{ name: "Joshika Montessori School",
+address: "#1275, 1st A cross, JP nagar 2nd phase, ,  Bangalore",
+board: "",
+medium: "English Medium",
+description: "Montessori School - 2 years to 6 years old"
+}
+]
