@@ -2,58 +2,105 @@ var Crawler = require("crawler");
 var url = require('url');
 var $ = require("jquery");
 var fs = require('fs');
-
+var final_object={};
 var c = new Crawler({
-    maxConnections : 10,
+    maxConnections : 50,
     // This will be called for each crawled page
     callback : function (error, result, $) {
 
         if(result){
-            var html = $.parseHTML(result.body);
-            var d= $(html).find( '.schoolDescription' );
-            var a= $(html).find( '.schoolDetail' );
-            var i,b,c;
-            var saved="[\n";
-            for (i = 0; i < a.length; i++){
-                console.log(i);
-                var alpha=i.toString();
-                saved+='{ '
-                b=(a[alpha].children)
-                c=((b[1].children)[1].children)[0].data;
-                console.log("name: "+c.trim());
-                saved+="name: \""+c.trim()+"\",\n";
 
-                console.log("address: "+((b[5].children)[1].data).trim());
-                saved+="address: \""+((b[5].children)[1].data).trim()+"\",\n";
+          var uri=result.uri.split('/'),
+            name=uri[uri.length-1],
+            html = $.parseHTML(result.body),
+            d= $(html).find( '.schoolDescription' ),
+            a= $(html).find( '.schoolDetail' ),
+            arr=[],
+            obj,i,b,c;
+          if(name == "schools"){
+            name="locality";
+          }
 
-                console.log("board: "+(((b[7].children)[2].children)[0].data).trim());
-                saved+="board: \""+(((b[7].children)[2].children)[0].data).trim()+"\",\n";
+          for (i = 0; i < a.length; i++){
+            obj={};
+            var alpha=i.toString();
 
-           //  if(i!=16)  {
-                console.log("medium: "+((((b[7].children)[2].children)[1].children)[0].data).trim());
-                saved+="medium: \""+((((b[7].children)[2].children)[1].children)[0].data).trim()+"\",\n";
-           //}
-
-                b=(d[alpha].children);
-                console.log("description: "+(b[0].data).trim());
-                saved+="description: \""+(b[0].data).trim()+"\"\n";
-
-                console.log('\n');
-                if(i!=(a.length-1))
-                saved+='},\n';
+            b=(a[alpha].children)
+            try {
+              c=((b[1].children)[1].children)[0].data;
+              obj.name=c.trim();
             }
-             saved+="}\n]";
-            fs.writeFile("./folder/locality.txt", saved, function(err) {
-              if(err) {
-                return console.log(err);
-              }
-              console.log("The file was saved!");
-            });
-      }
-  }
-});
+            catch(err) {
+               obj.name="";
+            }
+
+            try {
+              obj.address=((b[5].children)[1].data).trim()
+            }
+            catch(err) {
+              obj.address="";
+            }
+
+            try {
+               obj.board=(((b[7].children)[2].children)[0].data).trim();
+            }
+            catch(err) {
+              obj.board="";
+            }
+
+            try {
+              obj.medium=((((b[7].children)[2].children)[1].children)[0].data).trim();
+            }
+            catch(err){
+              obj.medium="";
+            }
+
+            try {
+              b=(d[alpha].children);
+              obj.description=(b[0].data).trim();
+            }
+            catch(err) {
+                obj.description="";
+            }
+
+            arr.push(obj);
+          }
+
+          final_object[name]=arr;
+
+          fs.writeFile("./schools/"+name+".json", JSON.stringify(arr), function(err) {
+            if(err) {
+              return console.log(err);
+            }
+             console.log("The file was saved!");
+          });
+
+          fs.writeFile("./schools/final.json", JSON.stringify(final_object), function(err) {
+            if(err) {
+              return console.log(err);
+             }
+            console.log("The file was saved!");
+          });
+        }
+     }
+  });
 // Queue just one URL, with default callback
 c.queue('https://www.urbanpro.com/bangalore/schools');
+c.queue('https://www.urbanpro.com/bangalore/schools/j-p-nagar');
+c.queue('https://www.urbanpro.com/bangalore/schools/vijaynagar');
+c.queue('https://www.urbanpro.com/bangalore/schools/r-t-nagar');
+c.queue('https://www.urbanpro.com/bangalore/schools/banashankari');
+c.queue('https://www.urbanpro.com/bangalore/schools/bannerghatta-road');
+c.queue('https://www.urbanpro.com/bangalore/schools/basavanagudi');
+c.queue('https://www.urbanpro.com/bangalore/schools/malleswaram');
+c.queue('https://www.urbanpro.com/bangalore/schools/banaswadi');
+c.queue('https://www.urbanpro.com/bangalore/schools/jayanagar');
+c.queue('https://www.urbanpro.com/bangalore/schools/rajajinagar');
+c.queue('https://www.urbanpro.com/bangalore/schools/koramangala');
+c.queue('https://www.urbanpro.com/bangalore/schools/basaveshwara-nagar');
+c.queue('https://www.urbanpro.com/bangalore/schools/banashankari-3rd-stage');
+c.queue('https://www.urbanpro.com/bangalore/schools/j-p-nagar');
+c.queue('https://www.urbanpro.com/bangalore/schools/frazer-town');
 
 /*
 URL Required for fetching data
