@@ -21,7 +21,7 @@ var fs = require('fs'),
   };
 
 
-fs.readFile('./Crawler_for_schools/final.json', 'utf8', function (err,data) {s
+fs.readFile('./Crawler_for_schools/final.json', 'utf8', function (err,data) {
   if (err) {
     return console.log(err);
   }
